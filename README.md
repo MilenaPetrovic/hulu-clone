@@ -1,13 +1,13 @@
-#Hulu clone
+# Hulu clone
 
 Hulu clone application made with Next.js framework and Tailwind css.
 ------
 
-##Description
+##$ Description
 
 This web application is created for purpose of learning Next.js, React and Tailwind css.
 
-##Implementation
+### Implementation
 
 Next.js (React framework):
 - Lazy-loading
@@ -19,7 +19,7 @@ Styling is done using Tailwind CSS
 IDE for development was Visual Studio Code.
 
 ------
-##Live preview
+### Live preview
 
 Vercel platform is used for deploying the application and it can be accessed by clicking [here](https://hulu-clone-882l3k0ge-milenapetrovic.vercel.app).
 

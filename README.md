@@ -21,5 +21,5 @@ IDE for development was Visual Studio Code.
 ------
 ### Live preview
 
-Vercel platform is used for deploying the application and it can be accessed by clicking [here](https://hulu-clone-882l3k0ge-milenapetrovic.vercel.app).
+Vercel platform is used for deploying the application and it can be accessed by clicking [here](https://hulu-clone-22w4do3y0-milenapetrovic.vercel.app/).
 

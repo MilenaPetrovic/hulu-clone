@@ -3,7 +3,7 @@
 Hulu clone application made with Next.js framework and Tailwind css.
 ------
 
-##$ Description
+### Description
 
 This web application is created for purpose of learning Next.js, React and Tailwind css.
 
